@@ -9,7 +9,8 @@ Count and sum the scores of a bowling game for one player.
 
 1. Fork and clone this repo
 2. `cd` into the folder
-3. Run `jest` in the project directory
+3. Run `npm install` to get dependencies
+4. Run `jest` in the project directory
 
 ## Tech Used:
 
