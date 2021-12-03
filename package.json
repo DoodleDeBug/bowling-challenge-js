@@ -19,5 +19,8 @@
   "homepage": "https://github.com/DoodleDeBug/bowling-challenge-js#readme",
   "dependencies": {
     "jest": "^27.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0"
   }
 }
